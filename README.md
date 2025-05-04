@@ -1,16 +1,16 @@
-## Hi there 👋
+ 👋 Hi, I’m Hetal Parmar
 
-<!--
-**Hetalp98/Hetalp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data & GIS Analyst with postgraduate certifications in **Data Analytics** and **GIS Application Specialist**. I love using data, code, and maps to solve meaningful problems—from improving healthcare outcomes to supporting urban planning.
 
-Here are some ideas to get you started:
+ 🔍 What I Do
+- Build predictive ML models using Python (Logistic Regression, Random Forest)
+- Create Tableau and Power BI dashboards to tell stories with data
+- Use ArcGIS Pro and QGIS for spatial analysis, MCDA, and map visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Projects
+- British Airways Tableau Dashboard** – Exploratory dashboard using review data  
+
+🛠️ Tools & Tech
+`Python` | `SQL` | `Tableau` | `Power BI` | `ArcGIS Pro` | `QGIS` | `Scikit-learn` | `FME` | `GitHub`
+
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/hetal-parmar-b48b5a211)
