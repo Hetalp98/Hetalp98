@@ -8,7 +8,7 @@ I’m a Data & GIS Analyst with postgraduate certifications in **Data Analytics*
 - Use ArcGIS Pro and QGIS for spatial analysis, MCDA, and map visualization
 
 📁 Projects
-- British Airways Tableau Dashboard** – Exploratory dashboard using review data  
+- British Airways Tableau Dashboard – Exploratory dashboard using review data  
 
 🛠️ Tools & Tech
 `Python` | `SQL` | `Tableau` | `Power BI` | `ArcGIS Pro` | `QGIS` | `Scikit-learn` | `FME` | `GitHub`
